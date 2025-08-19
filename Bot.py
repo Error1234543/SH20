@@ -3,7 +3,7 @@ import re
 import telebot
 from flask import Flask, request
 
-TOKEN = os.getenv("BOT_TOKEN")  # Render me ENV var set karoge
+TOKEN = os.getenv("8033969537:AAF_TeB3pFGNjc7zTYolaNq-eZSQP0jF6T4")  # Render me ENV var set karoge
 bot = telebot.TeleBot(TOKEN)
 app = Flask(__name__)
 
